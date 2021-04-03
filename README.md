@@ -1,5 +1,5 @@
 # Bankist app by Mihai
-You can find ('this project')[https://bankist-app-by-mihai.netlify.app] <- here!
+You can find [this project](https://bankist-app-by-mihai.netlify.app) <- here!
 
 To test this project use the username :js and the pin:1111 or the username jd and the pin:2222
 
