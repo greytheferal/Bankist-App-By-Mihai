@@ -6,4 +6,4 @@ To test this project use the username :js and the pin:1111 or the username jd an
 
 ## License
 
-Make sure you know that **This project is based on [Jonas Schmedtmann](https://github.com/jonasschmedtmann)'s [Bankist App] project.**
+Make sure you know that **This project is based on [Jonas Schmedtmann](https://github.com/jonasschmedtmann)'s Bankist App project.**
